@@ -6,12 +6,12 @@
   </a>
 </h1>
 
-
+<!-- <h5 align="center">
   <code>
     <a href="" title="Discord Profile"><img width="22" src="https://raw.githubusercontent.com/Chow-Ray/Chow-Ray/main/images/icons/discord.svg"> Discord</a></code>
   <code><a href="" title="Telegram Profile"><img width="22" src="https://raw.githubusercontent.com/Chow-Ray/Chow-Ray/main/images/icons/telegram.svg"> Telegram</a></code>
   <code><a href="" title="Facebook Profile"><img width="22" src="https://raw.githubusercontent.com/Chow-Ray/Chow-Ray/main/images/icons/facebook.svg"> Facebook</a></code>
-
+</h5> -->
 <br>
 
 ### > Hello, Meow! ฅ•ω•ฅ
