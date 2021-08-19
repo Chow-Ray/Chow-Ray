@@ -48,8 +48,6 @@ Hi, I'm Chow Ray, a construction Project Manager.
   <a align="left" href="https://github.com/Chow-Ray/Toha" title="Toha"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Chow-Ray&repo=Toha&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Chow-Ray/hugo-toha.github.io" title="hugo-toha.github.io"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Chow-Ray&repo=hugo-toha.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-
 <br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/Chow-Ray?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
