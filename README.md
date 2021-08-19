@@ -17,7 +17,7 @@
 ### > Hello, Meow! ฅ•ω•ฅ
 <img align="right" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/HeiTang/HeiTang/main/images/orange-1.png"/>
 
-Hi, I'm HeiTang, a student at FCU.
+Hi, I'm Chow Ray, a construction Project Manager.
 
 - 👨‍💻 C / C# / C++ / Python / HTML / Apps Script
 - ⚒️ GitHub Actions / Django / Qt / Unity
