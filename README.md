@@ -46,7 +46,7 @@ Hi, I'm Chow Ray, a construction Project Manager.
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Chow-Ray/Toha" title="Toha"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Chow-Ray&repo=Toha&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Chow-Ray/Blog" title="Blog"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Chow-Ray&repo=Blog&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Chow-Ray/shici" title="shici"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Chow-Ray&repo=shici&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
