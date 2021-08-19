@@ -15,7 +15,7 @@
 <br>
 
 ### > Hello, Meow! ฅ•ω•ฅ
-<img align="right" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/HeiTang/HeiTang/main/images/orange-1.png"/>
+<img align="right" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/Chow-Ray/Chow-Ray/main/images/orange-1.png"/>
 
 Hi, I'm Chow Ray, a construction Project Manager.
 
@@ -41,4 +41,3 @@ Hi, I'm Chow Ray, a construction Project Manager.
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Chow-Ray&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
