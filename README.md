@@ -24,7 +24,7 @@ Hi, I'm Chow Ray, a construction Project Manager.
 - ✏️ Good at developing with Python
 - 🌱 I’m currently learning everything
 
-<img align="center" src="https://raw.githubusercontent.com/HeiTang/HeiTang/snake/github-snake.svg">
+<img align="center" src="https://raw.githubusercontent.com/Chow-Ray/Chow-Ray/snake/github-snake.svg">
 
 ### ⚡ Stats ⚡
 
