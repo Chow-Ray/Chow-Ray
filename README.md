@@ -17,7 +17,7 @@
 ### > Hello, World! ฅ•ω•ฅ
 <img align="right" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/Chow-Ray/Chow-Ray/main/images/orange-1.png"/>
 
-Hi, I'm Chow Ray, a construction Project Manager.
+Hi, I'm Chow Ray, a Construction Project Manager.
 
 - 👨‍💻 C / C# / C++ / Python / HTML / Apps Script
 - ⚒️ GitHub Actions / Django / Qt / Unity
