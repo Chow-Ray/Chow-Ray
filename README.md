@@ -14,7 +14,7 @@
 </h5> -->
 <br>
 
-### > Hello, Meow! ฅ•ω•ฅ
+### > Hello, World! ฅ•ω•ฅ
 <img align="right" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/Chow-Ray/Chow-Ray/main/images/orange-1.png"/>
 
 Hi, I'm Chow Ray, a construction Project Manager.
